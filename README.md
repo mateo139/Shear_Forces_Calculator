@@ -1,6 +1,6 @@
 # Engineering Calculator
 
-## This scrips will helps civil engineers in calculationg of shear forces and bending moments.
+## This scrips will helps civil engineers in calculating of shear forces and bending moments.
 
 Script is based on notes from ```https://www.degreetutors.com/python-projects/```
 
